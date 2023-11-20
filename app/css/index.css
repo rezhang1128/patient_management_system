@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.appointment_button_text{
+  color: #0E4DA4;
+  border: 1px solid;
+  border-color: #0E4DA4;
+}
+.service_card_button{
+  background-color: #0E4DA4;
+}
+.header_text{
+  font-family: 'Roboto', sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 600;
+}
+body{
+  background-color: rgba(211, 211, 211, 0.116);
+}
+
+/* DatePickerCustomStyles.css */
+
+
